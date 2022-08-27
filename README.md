@@ -1,4 +1,4 @@
-## GoLang practise
+## Postgres practise
 
 ---
 
